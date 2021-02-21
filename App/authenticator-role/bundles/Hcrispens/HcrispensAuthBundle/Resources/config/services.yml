@@ -1,0 +1,4 @@
+services:
+#    hcrispens_auth.example:
+#        class: Hcrispens\HcrispensAuthBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

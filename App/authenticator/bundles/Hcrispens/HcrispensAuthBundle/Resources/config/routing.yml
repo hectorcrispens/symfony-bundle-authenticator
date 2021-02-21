@@ -1,0 +1,3 @@
+hcrispens_auth_homepage:
+    path:     /
+    defaults: { _controller: HcrispensAuthBundle:Default:index }

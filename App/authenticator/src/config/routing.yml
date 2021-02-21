@@ -1,0 +1,8 @@
+hcrispens_auth:
+    resource: "@HcrispensAuthBundle/Resources/config/routing.yml"
+    prefix:   /
+
+authentication:
+    resource: "@AuthenticationBundle/Resources/config/routing.yml"
+    prefix:   /
+
